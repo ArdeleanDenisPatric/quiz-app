@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Which motor is NOT suitable for use as a DC machine?",
+        "options": [
+            "Permanent magnet motor",
+            "Series motor",
+            "Squirrel cage motor",
+            "Synchronous motor"
+        ],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "Who is the president of US?",
+        "options": [
+            "Joe Biden",
+            "Barack Obama",
+            "Michael Jackson",
+            "Rangar Lodbrok"
+        ],
+        "correctOptionIndex": "0"
+    },
+    {
+        "title": "What European conflict lasted 116 years?",
+        "options": [
+            "Persian Gulf War",
+            "World War II",
+            "Iraq War",
+            "The Hundred Years War"
+        ],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": "Who has been called the father of electricity?",
+        "options": [
+            "Thomas Edison",
+            "Michael Faraday",
+            "Albert Einstein",
+            "Leonardo da Vinci"
+        ],
+        "correctOptionIndex": "1"
+    },
+    {
+        "title": "What is the largest animal in the world?",
+        "options": [
+            "The Blue Whale",
+            "African Elephant",
+            "Giraffe",
+            "Brown Bear"
+        ],
+        "correctOptionIndex": "0"
+    },
+    {
+        "title": "`WWW` stand for in a website browser?",
+        "options": [
+            "Web Wide Windows",
+            "Website Wide Web",
+            "World Wide Web",
+            "Windows Website Web"
+        ],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "What was the first soft drink in space?",
+        "options": [
+            "Beer",
+            "Water",
+            "Tea",
+            "Coca Cola"
+        ],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": "How many teeth does an adult human have?",
+        "options": [
+            "35",
+            "32",
+            "30",
+            "28"
+        ],
+        "correctOptionIndex": "1"
+    },
+    {
+        "title": "What is your body's largest organ?",
+        "options": [
+            "The brain",
+            "The eyes",
+            "The skin",
+            "The hands"
+        ],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "Which company owns Bugatti, Lamborghini, Audi, Porsche, and Ducati?",
+        "options": [
+            "BMW",
+            "Mercedes",
+            "Dacia",
+            "Volkswagen"
+        ],
+        "correctOptionIndex": "3"
+    }
+]
